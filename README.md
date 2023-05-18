@@ -1,3 +1,5 @@
+[![StyleCI](https://github.styleci.io/repos/642356696/shield?branch=main)](https://github.styleci.io/repos/642356696?branch=main)
+
 # DynamoMiniPHP
 
 DynamoMiniPHP is a lightweight and fast PHP wrapper for AWS DynamoDB. It provides a simplified interface to interact with DynamoDB without the need for additional dependencies or the AWS SDK. It is designed to be easy to learn, use, and modify for your DynamoDB needs.
