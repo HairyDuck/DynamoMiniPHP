@@ -1,4 +1,10 @@
 [![StyleCI](https://github.styleci.io/repos/642356696/shield?branch=main)](https://github.styleci.io/repos/642356696?branch=main)
+[![CodeFactor](https://www.codefactor.io/repository/github/hairyduck/dynamominiphp/badge)](https://www.codefactor.io/repository/github/hairyduck/dynamominiphp)
+[![GitHub issues](https://img.shields.io/github/issues/hairyduck/dynamominiphp)](https://github.com/HairyDuck/DynamoMiniPHP/issues)
+[![GitHub forks](https://img.shields.io/github/forks/hairyduck/dynamominiphp)](https://github.com/HairyDuck/DynamoMiniPHP/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/hairyduck/dynamominiphp)](https://github.com/HairyDuck/DynamoMiniPHP/stargazers)
+[![GitHub license](https://img.shields.io/github/license/hairyduck/dynamominiphp)](https://github.com/HairyDuck/DynamoMiniPHP/blob/main/LICENSE)
+
 
 # DynamoMiniPHP
 
